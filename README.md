@@ -253,3 +253,7 @@ public class MainActivity extends AppCompatActivity {
     <color name="merah">#ff0006</color>
 
 </resources>
+```
+
+![Screenshot (175)](https://github.com/ariep1993/app1/assets/115473865/eddaa300-859e-4b8b-bb14-8211fb5733b4)
+
